@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+streamlit
+streamlit-option-menu
+pinecone
+sentence-transformers
+scikit-learn
+pandas
+numpy
